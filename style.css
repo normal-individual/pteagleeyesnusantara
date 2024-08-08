@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;    
+}
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.navbar
+{
+    background-color: crimson; 
+}
+.navbar-brand 
+{
+    width: 100px;
+    height: 40px;
+    padding-left: 20px;
+    color: #fff !important;
+
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.navbar-toggler
+{
+    outline-color: none !important;
+}
+
+#banner
+{
+    
+    color: #000;
+    padding-top: 5%;
+}
+.promo-title
+{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+#visimisi
+{
+    color: #000;
+    padding-top: 5%;
+    margin-top: 100px;
+}
+
+#card
+{
+    
+    color: #000;
+    padding-top: 5%;
+    margin-top: 100px;
+}
+.title
+{
+    
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#manajemen
+{
+    padding: 50px 0;
+    margin-top: 100px;
+}
+.manejemen-img
+{
+    width: 100px;
+    margin-top: 20px;
+
+}
+.manajemen
+{
+    padding: 20px;
+}
+.manajemen h4
+{
+    padding: 5px;
+    margin-top: 25px;
+    text-transform: uppercase;
+}
+#kontak
+{
+    
+    color: #000;
+    padding-top: 5%;
+    margin-top: 100px;
+}
+#footer
+{
+    background-color: crimson;
+    color: #fff;
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+
+}
